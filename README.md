@@ -50,7 +50,7 @@ The annotation process will be extended to include all the texts in ParCorOEv3, 
 
 # Project team and funding
 			
-The team and the funding of the project can be found at https://www.nerthusproject.com/about-us.
+The team and the funding of the project can be found at https://www.nerthusproject.com/about-us. The current grant is PID2023-149762NB-100 funded by MICIU/AEI/ 10.13039/501100011033.
 
 # Further information
 
