@@ -62,7 +62,7 @@ You may also be interested in the new version of the Nerthus database, an interf
 * Martín Arista, J. 2024. Toward a Universal Dependencies Treebank of Old English: Representing the Morphological Relatedness of Un-Derivatives. Languages, Vol. 9, No. 3.
 * Martín Arista, J., A. E. Ojanguren López and S. Domínguez Barragán. 2025. Universal Dependencies annotation of Old English with spaCy and MobileBERT. Evaluation and perspectives. Procesamiento del lenguaje natural, No. 74, pp. 253-262.
 * Martín Arista, J., A. E. Ojanguren López and S. Domínguez Barragán. 2025.Parsing Old English with Universal Dependencies—The Impacts of Model Architectures and Dataset Sizes. Big Data and Cognitive Computing, Vol. 9, No. 8.
-* Martín Arista, J. 2025. The Computational Study of Old English. Encyclopedia, Vol. 5, Núm. 3, pp. 137
+* Martín Arista, J. 2025. The Computational Study of Old English. Encyclopedia, Vol. 5, No. 3, pp. 137
     
 # Changelog
 
