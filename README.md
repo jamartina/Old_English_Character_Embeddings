@@ -7,7 +7,7 @@ The treebank is a revised version of the dataset of Domínguez Barragán, S. 202
 
 # Introduction
 
-This treebank contains 38,140 lines that annotate around 25,000 Old English words.
+This treebank contains 38,140 lines that annotate around 25,000 Old English words. In the paper, we evaluate a Stanza-based pipeline for Old English that combines character-level processing with language-specific word embeddings derived from the Dictionary of Old English Corpus. On a 25,000-word dataset annotated with Universal Dependencies, character-level models yield consistent gains over token-based variants for lemmatisation and dependency parsing (test UAS 88.92 per cent; LAS 79.65 per cent). Relative to a multilingual baseline for Old English, our best parser improves LAS by c. 20%; compared with a recent monolingual spaCy baseline on similar data sizes, gains are c. 5% on our split. We complement scores with qualitative analyses to illustrate strengths and limitations, and we provide implementation details to support replication. The main conclusion is that, under low-resource conditions, language-specific embeddings and character-level modelling are more effective for Old English processing than cross-linguistic transfer learning.
 
 
 # Acknowledgments
